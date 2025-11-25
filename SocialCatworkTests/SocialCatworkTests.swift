@@ -1,10 +1,3 @@
-//
-//  SocialCatworkTests.swift
-//  SocialCatworkTests
-//
-//  Created by Nikita on 25.11.2025.
-//
-
 import XCTest
 @testable import SocialCatwork
 
